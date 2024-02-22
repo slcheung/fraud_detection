@@ -1,5 +1,5 @@
 
-# Fraud Detection
+# Fraud Statement Detection
 ----------
 Have you ever encountered statements that initially struck you as surprising, but then left you questioning their complete truth?
 
